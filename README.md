@@ -28,6 +28,7 @@ If you think that these can be improved in anyway, please do suggest.
 - You Don't Know JS (book series)   | By Kyle Simpson   | ⭐⭐⭐⭐
 - The Principles of Object-oriented JavaScript  | By Nicholas C.Zakes   | ⭐⭐⭐⭐
 - JavaScript: The Definitive Guide  | By David Flanagan | Rating are required
+- Functional JavaScript | By Michael Fogus  | ⭐⭐⭐⭐
 
 ### 🍔 jQuery
 
@@ -51,32 +52,52 @@ If you think that these can be improved in anyway, please do suggest.
 
 **For JavaScript**:
 
+### 🍺 Choose a Framework
+
+#### 🍻 React
+
+- React: Up & Running: Building Web Applications    | By Stoyan Stefanov    | ⭐⭐
+
+#### 🥙 Angular
+
+- ng-book 2: The Complete Book on Angular 2   | By Ari Lerner   | ⭐⭐⭐
+- Switching to Angular 2    | By Minko Gechev   | ⭐⭐⭐
+
 ### 🍟 Nodejs
 
 - 深入浅出nodejs    | By 朴灵    | ⭐⭐⭐⭐
+- Node.js in Practice   | By Alex Young, Marc Harter    | ⭐⭐⭐⭐
+- Node.js in Action | By Mike Cantelon, Marc Harter, T.J. Holowaychuk and so on | ⭐⭐⭐⭐
 
 ### 🥖 TypeScript
 
 - Learning TypeScript   | By Remo H.Jansen  | ⭐⭐⭐⭐
 
-### 🥙 JavaScript Framework
-
-- ng-book 2: The Complete Book on Angular 2   | By Ari Lerner   | ⭐⭐⭐
-
 ### 🍙 Algorithms
 
 - Learning JavaScript Data Structures and Algorithms    | By Loiane Groner  | ⭐⭐⭐
+
+### 🍬 Databases
+
+- MongoDB in action second edition  | By Kyle Banker, Peter Bakkunm, Shaun Verch and so on  | ⭐⭐⭐⭐
 
 **For Web**:
 
 ### 🍘 Web Performance
 
+- High Performance JavaScript: Build Faster Web Application Interfaces  | By Nicholas C.Zakas   | ⭐⭐⭐⭐⭐
 - High Performance Web Sites    | By Steve Souders | ⭐⭐⭐⭐
 - Even Faster Web Sites: Performance Best Practices for Web Developers  | By  Steve Souders | Rating are required
 - High Performance Responsive Design    | By Tom Barker | ⭐⭐⭐
+- Pro CSS for High Traffic Website  | By Antony Kennedy | ⭐⭐⭐
 
+**For Full-Stack**:
 
-***
+### 🍉 Full-Stack
+
+- Rapid Prototyping with JS: Agile JavaScript Development   | By Azat Mardanov  | ⭐⭐⭐
+
+## 
 
 ## 📌 TODO
 
