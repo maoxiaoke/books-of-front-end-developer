@@ -25,10 +25,11 @@ If you think that these can be improved in anyway, please do suggest.
 ### 🌮 JavaScript
 
 - Professional JavaScript for Web Developers 3rd Edition    | By Nicholas C.Zakes   | ⭐⭐⭐⭐⭐
-- You Don't Know JS (book series)   | By Kyle Simpson   | ⭐⭐⭐⭐
+- You Don't Know JS (book series)   | By Kyle Simpson   | ⭐⭐⭐⭐⭐
 - The Principles of Object-oriented JavaScript  | By Nicholas C.Zakes   | ⭐⭐⭐⭐
 - JavaScript: The Definitive Guide  | By David Flanagan | Rating are required
 - Functional JavaScript | By Michael Fogus  | ⭐⭐⭐⭐
+- Understanding ECMAScript 6:     | By Nicholas C.Zakes   | ⭐⭐⭐⭐⭐
 
 ### 🍔 jQuery
 
@@ -97,7 +98,13 @@ If you think that these can be improved in anyway, please do suggest.
 
 - Rapid Prototyping with JS: Agile JavaScript Development   | By Azat Mardanov  | ⭐⭐⭐
 
-## 
+**Others**:
+
+### 🍄 Others
+
+- Introduction to JavaScript Object Notation: A To-the-point Guide to JSON  | By Lindsay Bassett    | ⭐⭐⭐⭐
+
+***
 
 ## 📌 TODO
 
