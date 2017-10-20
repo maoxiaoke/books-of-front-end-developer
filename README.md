@@ -102,7 +102,7 @@ If you think that these can be improved in anyway, please do suggest.
 
 ### 🍄 Others
 
-- Introduction to JavaScript Object Notation: A To-the-point Guide to JSON  | By Lindsay Bassett    | ⭐⭐⭐⭐
+- Introduction to JavaScript Object Notation: A To-the-point Guide to JSON  | By Lindsay Bassett    | ⭐⭐⭐
 
 ***
 
